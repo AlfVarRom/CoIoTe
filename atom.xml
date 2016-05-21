@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Thinny</title>
+ <link href="http://alfredovarela.github.io/CoIoTe/atom.xml" rel="self"/>
+ <link href="http://alfredovarela.github.io/CoIoTe/"/>
+ <updated>2016-05-21T14:48:59+02:00</updated>
+ <id>http://alfredovarela.github.io/CoIoTe</id>
+ <author>
+   <name>Ian Brunelli</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello I'm a title</title>
+   <link href="http://alfredovarela.github.io/CoIoTe/blog/Hello-World"/>
+   <updated>2016-05-13T00:00:00+02:00</updated>
+   <id>http://alfredovarela.github.io/CoIoTe/blog/Hello-World</id>
+   <content type="html">&lt;p&gt;I’m the body. I’m Batman&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
